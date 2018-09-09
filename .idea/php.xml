@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpAnalysisConfiguration" call_tree_analysis_depth="0" />
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/bvipul/generator" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/laravel/socialite" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/laravel/browser-kit-testing" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/xethron/migrations-generator" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/xethron/laravel-4-generators" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/league/oauth1-client" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/arcanedev/no-captcha" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/arcanedev/log-viewer" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/arcanedev/support" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/maximebf/debugbar" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/hassankhan/config" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/tymon/jwt-auth" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/codedungeon/php-cli-colors" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/codedungeon/phpunit-result-printer" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/spatie/laravel-cors" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/barryvdh/laravel-debugbar" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/namshi/jose" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/composer" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/unisharp/laravel-filemanager" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/yajra/laravel-datatables-oracle" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/creativeorange/gravatar" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/davejamesmiller/laravel-breadcrumbs" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/laravel-adminpanel/vendor/hieu-le/active" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/laravel-adminpanel/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
